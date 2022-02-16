@@ -1,3 +1,6 @@
+build
+out
+
 # Logs
 logs
 *.log
