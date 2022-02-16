@@ -27,5 +27,4 @@ runcmd:
   - sudo apt-get -y -qq install docker.io docker-compose git
   - git clone https://github.com/hashicorp-demoapp/hashicups-setups
   - cd hashicups-setups/docker-compose-backend-deployment
-  - sudo sed -i "s/version: '3.8'/version: '3.3'/g" docker-compose.yaml
   - sudo docker-compose up -d
