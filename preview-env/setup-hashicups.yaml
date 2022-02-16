@@ -17,7 +17,7 @@ users:
     groups: users, admin
     lock_passwd: false
     ssh_authorized_keys:
-      - ssh-rsa AAAAHHHHHH
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDCgQ3LlmjRqRUJ65iRJLG9lEVKQ5FCS2ZPMW0Rh6Vy0PM4dpdO1mXyUns/1VXIOnDELZi8QFzPjyH04/ffOfgL/J0M09K3DL47V4g6dxGyJi/4xE0d7gcYIYpPTKc1mz/lf8/+ZDCOpN6gvLtucbC5p+5ModRaeGvh8Hu+TxI5W1+ErRrh4Uo7+3zA0UMtat9EpYt9rT9vimngkDLf49Y/2mcOLj2xM3xRKZ3eh5N2OnzKz8PqO9LfhD3YyxECsvgl9U02Tn7/0jEKJWPW0EItHqAPHMYQ8TkRjzbHB4kl9MW2X4XA5Yw8Xje2quNSnBoYYUaFT4hTE91l0Y2UI9BysggYuRP5eH7AS3MRYoX2G0wQcXiYrQOnDAUthkj4KPvWlY9JZZb+yuvgh3a5B33K57mPr+LBn69RaJjsk2WXSYVSLb60Q3y6t5fjSIuSiyIabqq7jp9fs/msPNbYPN+lh8/u1DuWmpeknqc7NcPObSZn56OsgL075tr7fXvaciM= your_email@example.com
 
 # Clone repo and start hashicups backend
 runcmd:
